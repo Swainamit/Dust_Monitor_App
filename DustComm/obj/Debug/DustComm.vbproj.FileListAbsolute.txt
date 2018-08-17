@@ -1,0 +1,13 @@
+F:\VB\DustComm\DustComm\bin\Debug\DustComm.exe.config
+F:\VB\DustComm\DustComm\bin\Debug\DustComm.exe
+F:\VB\DustComm\DustComm\bin\Debug\DustComm.pdb
+F:\VB\DustComm\DustComm\bin\Debug\DustComm.xml
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.vbprojResolveAssemblyReference.cache
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.Form1.resources
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.Resources.resources
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.vbproj.GenerateResource.Cache
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.exe
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.xml
+F:\VB\DustComm\DustComm\obj\Debug\DustComm.pdb
+F:\VB\DustComm\DustComm\bin\Debug\EASendMail45.dll
+F:\VB\DustComm\DustComm\bin\Debug\Resources\mydata.mdb
