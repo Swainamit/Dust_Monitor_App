@@ -18,7 +18,7 @@ Public Class Form1
     Dim cnn As New OleDbConnection
     Dim cmd As New OleDbCommand
     Dim userMsg As String
-    'Dim potChart As New Series
+    'Dim potChart As New Series \in case of extra parameter
     Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         userMsg = Microsoft.VisualBasic.InputBox("Please Enter Password", "DustComm Password Manager", "Enter your password here", 500, 300)
         If userMsg = "dustcomm7" Then
